@@ -3,8 +3,9 @@ data from https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Dia
 adapted from https://www.kaggle.com/leemun1/predicting-breast-cancer-logistic-regression
 
 resources 
-- google pdf best ml practices
-- andrew youtube on optimizing ml pipelines
+- google pdf best ml practices https://developers.google.com/machine-learning/guides/rules-of-ml/
+- andrew youtube on optimizing ml pipelines http://cs229.stanford.edu/materials/ML-advice.pdf
+- 
 
 9:30 - 10:15
 Section 1: Supervised vs Unsupervised Learning
