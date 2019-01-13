@@ -1,6 +1,10 @@
 binder link https://mybinder.org/v2/gh/lisafeets/machine-learning-workshop/master
 data from https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
-derived from https://www.kaggle.com/leemun1/predicting-breast-cancer-logistic-regression
+adapted from https://www.kaggle.com/leemun1/predicting-breast-cancer-logistic-regression
+
+resources 
+- google pdf best ml practices
+- andrew youtube on optimizing ml pipelines
 
 9:30 - 10:15
 Section 1: Supervised vs Unsupervised Learning
