@@ -1,9 +1,6 @@
-workshop lecture
-
-supervised vs unsupervised learning
-    regression, classification, clustering
-
-training and testing, validation set
+binder link https://mybinder.org/v2/gh/lisafeets/machine-learning-workshop/master
+data from https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+derived from https://www.kaggle.com/leemun1/predicting-breast-cancer-logistic-regression
 
 9:30 - 10:15
 Section 1: Supervised vs Unsupervised Learning
@@ -13,7 +10,7 @@ Break 10:15-10:30
 
 10:30-11pm
 Section 2: Regression, Classification and Clustering
-Lab 2: Choosing best learning method for example problem statments
+Lab 2: Choosing best learning method for example problem statements
 
 11-12pm
 Section 3: Training, Testing and Validation
