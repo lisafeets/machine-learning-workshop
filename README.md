@@ -5,7 +5,7 @@ adapted from https://www.kaggle.com/leemun1/predicting-breast-cancer-logistic-re
 resources 
 - google pdf best ml practices https://developers.google.com/machine-learning/guides/rules-of-ml/
 - andrew youtube on optimizing ml pipelines http://cs229.stanford.edu/materials/ML-advice.pdf
-- 
+- pdf Data Science: Theories, Models, Algorithms, and Analytics https://srdas.github.io/Papers/DSA_Book.pdf
 
 9:30 - 10:15
 Section 1: Supervised vs Unsupervised Learning
