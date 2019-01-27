@@ -1,50 +1,28 @@
-binder link https://mybinder.org/v2/gh/lisafeets/machine-learning-workshop/master
-data from https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
-adapted from https://www.kaggle.com/leemun1/predicting-breast-cancer-logistic-regression
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lisafeets/machine-learning-workshop/master)
+
+# Machine Learning Workshop Labs
+
+This repository contains python code examples that are meant to help data science newbies learn the basics of creating machine learning models. 
+
+## Getting Started
+
+To run through the workshop labs, visit [this mybinder.org link](https://mybinder.org/v2/gh/lisafeets/machine-learning-workshop/master).
+
+The labs have been adapted from the ["Predicting Breast Cancer - Logistic Regression"](https://www.kaggle.com/leemun1/predicting-breast-cancer-logistic-regression) Kaggle post. Data is sourced from [Breast Cancer Wisconsin (Diagnostic) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29). 
+
+Labs are meant to be run in order. Executing commands in order within each lab jupyter notebook will result in locally saved data sets that can be used in the proceeding lab. Datasets for each lab are also made available in the `/data_sets` folder.
+
+Lab 1.
+
+Lab 2. Worksheet to practice choosing machine learning models for business problems (word doc)
+
+Lab 3.
+
+Lab 4.
+
 
 resources 
 - google pdf best ml practices https://developers.google.com/machine-learning/guides/rules-of-ml/
 - andrew youtube on optimizing ml pipelines http://cs229.stanford.edu/materials/ML-advice.pdf
 - pdf Data Science: Theories, Models, Algorithms, and Analytics https://srdas.github.io/Papers/DSA_Book.pdf
-
-9:30 - 10:15
-Section 1: Supervised vs Unsupervised Learning
-Lab 1. Loading Breast Cancer data, intro to pandas dataframes
-
-Break 10:15-10:30
-
-10:30-11pm
-Section 2: Regression, Classification and Clustering
-Lab 2: Choosing best learning method for example problem statements
-
-11-12pm
-Section 3: Training, Testing and Validation
-Lab 3: Visualizing cancer data, splitting into train/test/validation sets
-
-Lunch: 12-1pm
-
-1-1:30pm
-Lecture: Getting into data science
-
-1:30-2:30pm
-Section 4: Model Selection and Evaluation
-    -hyper parameter tuning and cross validation
-    -logistic regression: cost function, details on how it works, probabilistic score -> classification
-
-Break 2:30-2:45pm
-
-2:45-4pm
-Lab 4: Build ML model predicting breast cancer
-
-
-4-4:30pm
-Discussion: Discussion on how to leverage today's work into your own projects
-
-Beyond the Workshop:
-    -feature selection 
-    -feature creation
-    -target creation
-
-requirements:
-Familiarity with python- pandas and jupyter
-Understanding of histograms, scatterplots, boxplots
+-A Few Useful Things to Know about Machine Learning https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
