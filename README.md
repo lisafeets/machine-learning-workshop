@@ -12,13 +12,13 @@ The labs have been adapted from the ["Predicting Breast Cancer - Logistic Regres
 
 Labs are meant to be run in order. Executing commands in order within each lab jupyter notebook will result in locally saved data sets that can be used in the proceeding lab. Datasets for each lab are also made available in the `/data_sets` folder.
 
-Lab 1.
+Lab 1. Loading and cleaning breast cancer data.
 
 Lab 2. Worksheet to practice choosing machine learning models for business problems (word doc)
 
-Lab 3.
+Lab 3. Simple data processing and feature selection.
 
-Lab 4.
+Lab 4. Model application, evaluation and tuning.
 
 
 resources 
