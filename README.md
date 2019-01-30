@@ -12,17 +12,20 @@ The labs have been adapted from the ["Predicting Breast Cancer - Logistic Regres
 
 Labs are meant to be run in order. Executing commands in order within each lab jupyter notebook will result in locally saved data sets that can be used in the proceeding lab. Datasets for each lab are also made available in the `/data_sets` folder.
 
-Lab 1. Loading and cleaning breast cancer data.
+Lab 1. Loading and cleaning breast cancer data (jupyter notebook).
 
 Lab 2. Worksheet to practice choosing machine learning models for business problems (word doc)
 
-Lab 3. Simple data processing and feature selection.
+Lab 3. Simple data processing and feature selection (jupyter notebook).
 
-Lab 4. Model application, evaluation and tuning.
+Lab 4. Model application, evaluation and tuning (jupyter notebook).
 
 
-resources 
-- google pdf best ml practices https://developers.google.com/machine-learning/guides/rules-of-ml/
-- andrew youtube on optimizing ml pipelines http://cs229.stanford.edu/materials/ML-advice.pdf
-- pdf Data Science: Theories, Models, Algorithms, and Analytics https://srdas.github.io/Papers/DSA_Book.pdf
--A Few Useful Things to Know about Machine Learning https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
+### resources around the web 
+[google pdf best ml practices](https://developers.google.com/machine-learning/guides/rules-of-ml/)
+
+[andrew ng on optimizing ml pipelines](http://cs229.stanford.edu/materials/ML-advice.pdf)
+
+[Data Science: Theories, Models, Algorithms, and Analytics](ttps://srdas.github.io/Papers/DSA_Book.pdf)
+
+[A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
