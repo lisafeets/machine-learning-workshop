@@ -28,6 +28,6 @@ Lab 4. Model application, evaluation and tuning (jupyter notebook).
 
 [andrew ng on optimizing ml pipelines](http://cs229.stanford.edu/materials/ML-advice.pdf)
 
-[Data Science: Theories, Models, Algorithms, and Analytics](ttps://srdas.github.io/Papers/DSA_Book.pdf)
+[Data Science: Theories, Models, Algorithms, and Analytics](https://srdas.github.io/Papers/DSA_Book.pdf)
 
 [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
