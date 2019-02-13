@@ -16,7 +16,7 @@ Labs are meant to be run in order. Executing commands in order within each lab j
 
 Lab 1. Loading and cleaning breast cancer data (jupyter notebook).
 
-Lab 2. Worksheet to practice choosing machine learning models for business problems (word doc)
+Lab 2. Worksheet to practice choosing machine learning models for business problems (pdf)
 
 Lab 3. Simple data processing and feature selection (jupyter notebook).
 
