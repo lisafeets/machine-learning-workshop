@@ -8,7 +8,7 @@ This repository contains lecture slides and python code examples to help data sc
 
 To use the content found here as a full day workshop, we suggest using the following schedule
 
-![full day workshop schedule](images/ml_workshop_full_day_outline.jpg)
+![full day workshop schedule](images/ml_workshop_full_day_outline.png)
  
 
 
