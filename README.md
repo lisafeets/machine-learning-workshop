@@ -4,9 +4,17 @@
 
 This workshop was originally created and run by [ozzy18](https://github.com/ozzy18) and [lisafeets](https://github.com/lisafeets) for [Women Who Code](https://www.womenwhocode.com/). 
 
-This repository contains python code examples that are meant to help data science newbies learn the basics of creating machine learning models. 
+This repository contains lecture slides and python code examples to help data science newbies learn the basics of creating and evaluating machine learning models. 
+
+To use the content found here as a full day workshop, we suggest using the following schedule
+
+![full day workshop schedule](images/ml_workshop_full_day_outline.jpg)
+ 
+
 
 ## Getting Started
+
+Lecture slides go over the fundamentals of machine learning, from definitions to building and evaluating models.
 
 To run through the workshop labs, visit [this mybinder.org link](https://mybinder.org/v2/gh/lisafeets/machine-learning-workshop/master).
 
