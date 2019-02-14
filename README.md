@@ -14,7 +14,7 @@ To use the content found here as a full day workshop, we suggest using the follo
 
 ## Getting Started
 
-Lecture slides go over the fundamentals of machine learning, from definitions to building and evaluating models.
+Lecture slides (found at mlworkshop_slides.pdf), go over the fundamentals of machine learning, from definitions to building and evaluating models.
 
 To run through the workshop labs, visit [this mybinder.org link](https://mybinder.org/v2/gh/lisafeets/machine-learning-workshop/master).
 
