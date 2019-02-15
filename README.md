@@ -29,3 +29,10 @@ Lab 2. Worksheet to practice choosing machine learning models for business probl
 Lab 3. Simple data processing and feature selection (jupyter notebook).
 
 Lab 4. Model application, evaluation and tuning (jupyter notebook).
+
+
+## Resources for Beginner-Friendly datasets:
+
+1. [Best Machine Learning Datasets for Beginners](https://hub.packtpub.com/best-machine-learning-datasets-for-beginners/)
+2. [Fun, beginner-friendly datasets](https://www.kaggle.com/rtatman/fun-beginner-friendly-datasets)
+3. Another greate resource: [Datasets and Tutorial Kernels for Beginners](https://www.kaggle.com/m2skills/datasets-and-tutorial-kernels-for-beginners)
